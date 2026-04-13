@@ -1,0 +1,12 @@
+package Meteorologia.enums;
+
+public enum Luas {
+    LUANOVA,
+    LUACRESCENTE,
+    QUARTOCRESCENTE,
+    GIBOSACRESCENTE,
+    LUACHEIA,
+    GIBOSAMINGUANTE,
+    QUARTOMINGUANTE,
+    LUAMINGUANTE,
+}
